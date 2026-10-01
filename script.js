@@ -36,7 +36,7 @@ document.getElementById('quoteForm')?.addEventListener('submit', function(e) {
   const message = document.getElementById('message').value.trim();
 
   const text = [
-    'Olá, J.M.A! Vim pelo site e gostaria de solicitar um orçamento.',
+    'Olá, André! Vim pelo site da J.M.A e gostaria de solicitar um orçamento.',
     '',
     `*Nome:* ${name}`,
     company ? `*Empresa:* ${company}` : '',
@@ -44,7 +44,7 @@ document.getElementById('quoteForm')?.addEventListener('submit', function(e) {
     `*Projeto:* ${message}`
   ].filter(Boolean).join('\n');
 
-  const phone = '5511953639970';
+  const phone = '5511989993311';
   window.open(`https://wa.me/${phone}?text=${encodeURIComponent(text)}`, '_blank', 'noopener,noreferrer');
 });
 

@@ -23,6 +23,18 @@ O CSS já pode receber as fotos sem precisar refazer a estrutura.
 
 ## WhatsApp
 O formulário está configurado para abrir uma conversa no número:
-+55 11 95363-9970
++55 11 98999-3311
 
 Se o número mudar, altere a constante `phone` no `script.js`.
+
+Contato: André — (11) 98999-3311
+
+
+Serviços cadastrados no site:
+- Torno CNC — capacidade até 1 metro
+- Centro de Usinagem com 4º Eixo — peças complexas e alta precisão
+- Torno Mecânico Convencional — até 4 metros de comprimento
+- Fresadora
+- Soldagem em Geral — MIG, TIG e Eletrodo
+- Caldeiraria Pesada e Leve
+- Projetos e Desenvolvimento de Peças
